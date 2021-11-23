@@ -7,3 +7,5 @@ git add
 git commit
 
 git branch -M main
+
+git add Filename
